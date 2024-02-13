@@ -2,7 +2,12 @@ Modules:
 https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/
 
 compile:
+g++ -std=c++20 -fmodules-ts -x c++-system-header iostream
 g++ foo.cpp fun.cpp fun_impl.cpp main.cpp -fmodules-ts -o main
+
+gadominguez file:
+g++ gadominguez.cpp main2.cpp -fmodules-ts -std=c++20
+g++ gadominguez.cpp main2.cpp -fmodules-ts -std=c++20 -pthread
 
 #####################################################################################
 #####################################################################################

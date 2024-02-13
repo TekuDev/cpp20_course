@@ -1,0 +1,3 @@
+madrid;10
+barcelona;14
+murica;25
