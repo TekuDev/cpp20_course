@@ -1,1 +1,0 @@
-https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/
