@@ -16,4 +16,16 @@ g++ gadominguez.cpp main2.cpp -fmodules-ts -std=c++20 -pthread -o main
 
 Concepts:
 https://www.cppstories.com/2021/concepts-intro/
+https://www.studyplan.dev/pro-cpp/concepts
+
+#####################################################################################
+#####################################################################################
+#####################################################################################
+
+Ranges:
+https://learn.microsoft.com/es-es/cpp/standard-library/ranges?view=msvc-170
+https://learn.microsoft.com/es-es/cpp/standard-library/range-adaptors?view=msvc-170
+https://devblogs.microsoft.com/cppblog/documentation-for-cpp20-ranges/
+https://www.cppstories.com/2022/ranges-perf/
+
 
