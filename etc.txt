@@ -26,6 +26,9 @@ Ranges:
 https://learn.microsoft.com/es-es/cpp/standard-library/ranges?view=msvc-170
 https://learn.microsoft.com/es-es/cpp/standard-library/range-adaptors?view=msvc-170
 https://devblogs.microsoft.com/cppblog/documentation-for-cpp20-ranges/
+https://brevzin.github.io/c++/2021/02/28/ranges-reference/
 https://www.cppstories.com/2022/ranges-perf/
+https://mariusbancila.ro/blog/2020/06/06/a-custom-cpp20-range-view/
+
 
 
