@@ -30,5 +30,9 @@ https://brevzin.github.io/c++/2021/02/28/ranges-reference/
 https://www.cppstories.com/2022/ranges-perf/
 https://mariusbancila.ro/blog/2020/06/06/a-custom-cpp20-range-view/
 
+#####################################################################################
+#####################################################################################
+#####################################################################################
 
-
+Coroutines:
+https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
