@@ -1,3 +1,9 @@
-madrid;10;8;13
-barcelona;14;22;20
-murica;25;27;28
+madrid;10
+barcelona;14
+murica;25
+madrid;8
+barcelona;22
+murica;27
+madrid;13
+barcelona;20
+murica;28
