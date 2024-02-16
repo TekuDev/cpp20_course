@@ -45,3 +45,6 @@ https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
 
 Three way comparison operator:
 https://www.modernescpp.com/index.php/c-20-the-three-way-comparison-operator/
+https://en.cppreference.com/w/cpp/language/operator_comparison
+
+
