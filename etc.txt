@@ -39,4 +39,9 @@ https://mariusbancila.ro/blog/2020/06/06/a-custom-cpp20-range-view/
 Coroutines:
 https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
 
+#####################################################################################
+#####################################################################################
+#####################################################################################
 
+Three way comparison operator:
+https://www.modernescpp.com/index.php/c-20-the-three-way-comparison-operator/
