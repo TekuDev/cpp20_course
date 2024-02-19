@@ -1,9 +1,11 @@
 https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP20.md
+https://github.com/Rucadi/C-20
 
 https://godbolt.org/
 
 Modules:
 https://blog.feabhas.com/2021/08/c20-modules-with-gcc11/
+https://learn.microsoft.com/en-us/cpp/cpp/modules-cpp?view=msvc-170
 
 compile:
 g++ -std=c++20 -fmodules-ts -x c++-system-header iostream
@@ -32,12 +34,16 @@ https://brevzin.github.io/c++/2021/02/28/ranges-reference/
 https://www.cppstories.com/2022/ranges-perf/
 https://mariusbancila.ro/blog/2020/06/06/a-custom-cpp20-range-view/
 
+https://en.cppreference.com/w/cpp/container/map/contains
+
 #####################################################################################
 #####################################################################################
 #####################################################################################
 
 Coroutines:
 https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
+https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework/
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-c++20/
 
 #####################################################################################
 #####################################################################################
@@ -46,5 +52,7 @@ https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
 Three way comparison operator:
 https://www.modernescpp.com/index.php/c-20-the-three-way-comparison-operator/
 https://en.cppreference.com/w/cpp/language/operator_comparison
+
+https://www.modernescpp.com/index.php/more-powerful-lambdas-with-c-20/
 
 
